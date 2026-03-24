@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Maryam! 👋
 
-<!--
-**Maviz99/Maviz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏛️ I am a **Computer Science student** at TU Dresden (currently in my 4th semester).
+- 🚀 I am at the beginning of my professional journey and eager to find my passion in the tech world.
+- 🧠 I love **Mathematics and Problem Solving** – complex challenges are what motivate me.
 
-Here are some ideas to get you started:
+### 💡 My Strengths
+- **Fast Learner:** I pick up new concepts extremely quickly and always strive for excellence in everything I do.
+- **Continuous Growth:** I enjoy challenges and constantly learning new things.
+- **Creativity:** I love using my creativity to make everyday tasks more interesting and efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack (Academic)
+- Java, Python, C++, Rust, VS Code
+
+---
+📫 Feel free to reach out to me via [LinkedIn](linkedin.com/in/maryam-vezarati-83a0a035b) or here on GitHub!
