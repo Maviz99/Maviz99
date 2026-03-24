@@ -14,4 +14,4 @@
 - Java, Python, C++, Rust, VS Code
 
 ---
-📫 Feel free to reach out to me via [LinkedIn](linkedin.com/in/maryam-vezarati-83a0a035b) or here on GitHub!
+📫 Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/maryam-vezarati-83a0a035b) or here on GitHub!
